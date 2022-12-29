@@ -1,4 +1,4 @@
-# Google-Capstone-Project
+# Google Capstone Project
 Case study on a bike-sharing company - Cyclistic. Completed as a Capstone Project at the end of the Google Data Analytics Course.
 
 Click on .pdf to view project on Github,
